@@ -1,0 +1,10 @@
+uml vector
+https://stackoverflow.com/questions/27459257/how-to-represent-an-attributes-data-type-as-an-array-of-objects-on-class-diagram
+
+
+uml pointer
+https://stackoverflow.com/questions/21816703/how-can-i-describe-a-pointer-to-class-in-a-uml-class-diagram
+
+
+MainBoard에 vector<BoardButton> buttonList가 있는데 이거 이렇게 할 필요 없음
+그냥 QPushButton해서 그 번호만 넘겨주면 되니까 BoardButton할 이유가 없음
