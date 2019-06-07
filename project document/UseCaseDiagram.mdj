@@ -1210,6 +1210,7 @@
 									"model": {
 										"$ref": "AAAAAAFqw5IjylsAd1U="
 									},
+									"visible": false,
 									"font": "Arial;13;0",
 									"left": 272,
 									"top": 256,
@@ -2020,6 +2021,7 @@
 									"model": {
 										"$ref": "AAAAAAFqw5bEaGfCJOc="
 									},
+									"visible": false,
 									"font": "Arial;13;0",
 									"left": 272,
 									"top": 208,
@@ -2190,8 +2192,7 @@
 								},
 								"reference": {
 									"$ref": "AAAAAAFqw0waD1iOIyc="
-								},
-								"multiplicity": "2..4"
+								}
 							},
 							"end2": {
 								"_type": "UMLAssociationEnd",
@@ -2245,8 +2246,7 @@
 								},
 								"reference": {
 									"$ref": "AAAAAAFqw0waD1iOIyc="
-								},
-								"multiplicity": "2..4"
+								}
 							},
 							"end2": {
 								"_type": "UMLAssociationEnd",
